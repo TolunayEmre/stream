@@ -1,0 +1,12 @@
+{
+  "name": "stream",
+  "version": "1.0.0",
+  "description": "Stream JSON",
+  "main": "",
+  "scripts": {
+    "read-stream" : "node ReadStream.js",
+    "write-stream" : "node WriteStream.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
