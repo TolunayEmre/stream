@@ -8,7 +8,7 @@
 
 ## Getting started
 ```
-$ git clone https://github.com/TolunayEmre/streams.git
+$ git clone https://github.com/TolunayEmre/stream.git
 $ cd stream/
 ```
 
